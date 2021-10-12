@@ -9,4 +9,11 @@
    "default_icon": "extension-icon.png",
    "default_popup": "popup.html"
   },
+  
+  "content_scripts": [
+    {
+      "matches": ["*://*.twitter.com/*"],
+      "js": ["block.js"]
+    }
+  ]
 }
