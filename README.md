@@ -1,2 +1,16 @@
-# extension-template
-Template repo, nothing more
+# TURBO-BASSOON
+```powershell
+SCRIPTS: ACTIVE
+.
+.
+.
+EXTENSION: LOADED
+.
+.
+.
+SHARING: IN PROCESS...
+.
+.
+.
+EPIC: TRUE
+```
